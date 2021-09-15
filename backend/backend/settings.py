@@ -10,7 +10,8 @@ SECRET_KEY = "django-insecure-lyl268h&^rn&3z_=tvmupc+fv%9*jf*%4b(at0no&zi%de*dbx
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    "notes-school-zain-kamaal-ahmed.herokuapp.com",
+    "https://notes-school-zain-kamaal-ahmed.herokuapp.com",
+    "https://notes-school-zain-kamaal-ahmed.herokuapp.com/"
     "localhost",
     "127.0.0.1",
 ]
